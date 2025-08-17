@@ -1,12 +1,56 @@
-### Hi, I’m Darcy 👋
-CSU‑Global CS (4.0). Low‑compute, reproducible AI. Building a bias‑mitigation toolkit and a CPU‑first story engine.
+<h1 align="center">Hi, I’m Darcy 👋</h1>
 
-**Pinned work**
-- **Spark Story Engine** — Colab + LoRA/ControlNet; restart‑safe logging for consistent characters  
-  https://github.com/darcy0408/spark-story-engine
-- **Purrfectly Penned** — AI greeting cards with prompt templates + ControlNet; CPU‑first Colab with seed/param logging  
-  https://github.com/darcy0408/purrfectly-penned
-- **W‑2 Generator** — small Python utility with printable output  
-  https://github.com/darcy0408/W2_Generator
+<p align="center">
+CSU-Global B.S. CS (4.0) • Low-compute, reproducible AI • Bias-mitigation tooling • Flutter apps for kids & learning
+</p>
 
-**Interests:** equitable healthcare AI, privacy‑first data practices, practical tutorials for low‑compute learners
+---
+
+### What I’m about
+- **Accessible AI:** CPU-first pipelines that run on modest hardware and are easy to reproduce.
+- **Reproducibility:** Seeds, exact params, and restart-safe logs baked into every project.
+- **Impact:** Tools for kids’ creativity and equitable AI practices.
+
+### Skills & Stack
+**Languages:** Dart, Python, JavaScript  
+**Frameworks:** Flutter, Flask/FastAPI (prototyping)  
+**ML/Tools:** Colab, LoRA/ControlNet (workflow), Prompt engineering  
+**Infra & Dev:** Git/GitHub, GitHub Actions, REST APIs, JSON
+
+---
+
+## Selected Projects
+
+### 🟣 Story Creator (Flutter)
+Kid-friendly story generator with selectable **character, theme, and companion**, local save (SharedPreferences), and web build.
+- Flutter Web target; Android/iOS scaffolding.
+- Clean architecture, assets, and CI ready.
+- Repo: **[`story_creator_app`](https://github.com/darcy0408/story_creator_app)**
+
+### 🔥 Spark Story Engine
+Colab + LoRA/ControlNet story pipeline with **restart-safe logging** for consistent characters and reproducible generations.
+- Exact seeds & params saved for each run.
+- Repo: **[`spark-story-engine`](https://github.com/darcy0408/spark-story-engine)**
+
+### 🐾 Purrfectly Penned
+AI greeting cards with prompt templates + ControlNet. **CPU-first** Colab flows with seed/param logging.
+- Repo: **[`purrfectly-penned`](https://github.com/darcy0408/purrfectly-penned)**
+
+### 🧾 W-2 Generator
+Small Python utility that outputs a printable W-2 for learning/demo scenarios.  
+- Repo: **[`W2_Generator`](https://github.com/darcy0408/W2_Generator)**
+
+---
+
+## Now
+- Expanding Story Creator to support **full character sheets** (age, hair/eye color, traits) and cloud sync.
+- Writing a bias-mitigation toolkit note with **practical, low-compute** checks.
+
+## Get in touch
+- **Email:** _add your email here_  
+- **LinkedIn:** _add your LinkedIn link here_  
+- **Resume:** _add link to PDF/Drive here_
+
+---
+
+<sub>Always happy to chat about accessible AI, reproducibility, and kid-centered apps.</sub>
