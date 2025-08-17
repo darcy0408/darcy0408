@@ -47,10 +47,9 @@ Small Python utility that outputs a printable W-2 for learning/demo scenarios.
 - Writing a bias-mitigation toolkit note with **practical, low-compute** checks.
 
 ## Get in touch
-- **Email:** _add your email here_  
-- **LinkedIn:** _add your LinkedIn link here_  
-- **Resume:** _add link to PDF/Drive here_
-
+- **Email:** darcy0408@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/darcy0408
+- **Resume:** https://docs.google.com/document/d/1HcDVEC3-087kEYH18Fmj6CMgPJ6DSwjb/edit?usp=drive_link&ouid=106350471519119099873&rtpof=true&sd=true
 ---
 
 <sub>Always happy to chat about accessible AI, reproducibility, and kid-centered apps.</sub>
