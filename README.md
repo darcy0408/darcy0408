@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Darcy 👋</h1>
 
 <p align="center">
-CSU-Global B.S. CS (4.0) • Low-compute, reproducible AI • Bias-mitigation tooling • Flutter apps for kids & learning
+CSU-Global B.S. CS (3.94) • Low-compute, reproducible AI • Bias-mitigation tooling • Flutter apps for kids & learning
 </p>
 
 ---
