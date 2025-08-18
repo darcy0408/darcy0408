@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/profile_banner.png" alt="Darcy — low-compute, reproducible AI + kid-centered apps" width="100%">
+</p>
+
 <h1 align="center">Hi, I’m Darcy 👋</h1>
 
 <p align="center">
