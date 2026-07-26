@@ -31,7 +31,7 @@ A production cross-platform app generating personalized, age-appropriate stories
 - Flutter front end · Python/Flask API · PostgreSQL · Docker on Railway
 - **10 CI/CD pipelines** — canary deployment, automated rollback, scheduled Postgres backups, and restore drills that verify backups actually recover
 - 2,800+ commits and 220 test files over nine months of continuous delivery
-- Live: **[onceuponyourchild.app](https://onceuponyourchild.app)** · Repo: **[`story-weaver-app`](https://github.com/darcy0408/story-weaver-app)**
+- Live: **[onceuponyourchild.app](https://onceuponyourchild.app)** · Repo: **[`once-upon-your-child`](https://github.com/darcy0408/once-upon-your-child)**
 
 ### 📊 Misinformation Dynamics Model
 A Python model of how a false rumor spreads through a population in Portland — exploring when misinformation settles, oscillates, or can be reversed by debunking.
@@ -46,7 +46,7 @@ An agent-based model asking whether a town fleeing a wildfire is safer leaving a
 ### 🗣️ SoundingBoard
 An iOS app for practicing difficult conversations with an AI persona that pushes back realistically, then scores clarity, composure, and assertiveness.
 - Cloudflare Worker proxies all model and TTS calls, so **no API credentials ship in the client**; speech-to-text runs on-device
-- Repo: **[`soundingboard`](https://github.com/darcy0408/soundingboard)**
+- Repo private during App Store prep — happy to walk through it on request
 
 ### 🛰️ DRIFT — an ambient atlas
 Interactive satellite screensaver touring Earth’s wonders, as a web app and a Windows `.scr`.
