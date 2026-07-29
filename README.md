@@ -26,6 +26,14 @@ CSU-Global B.S. CS (3.97 GPA) • Undergraduate research fellow • Low-compute,
 
 ## Selected Projects
 
+### 🚦 Portland Traffic ABM — *NSF REU research*
+An agent-based model of interacting vehicles on Portland's street network. Vehicles follow one another, queue at signals, and back up in congestion; from those interactions the model produces street-segment surfaces of traffic NO2 and noise.
+- The agent simulation **generates the predictors**, which are then fed into the same random-forest method a published land-use baseline used — so the comparison isolates what source-based interaction modeling adds over static estimation
+- Closure experiments quantify that **61–76% of a closed arterial's emissions redistribute onto specific parallel routes**, naming which blocks inherit the burden
+- HBEFA emission factors, CNOSSOS noise modeling benchmarked against the FHWA Traffic Noise Model
+- Abstract submitted to the **ACM SIGSPATIAL 2026** Student Research Competition
+- Repo: **[`portland-traffic-abm`](https://github.com/darcy0408/portland-traffic-abm)**
+
 ### 📖 Story Weaver — *Once Upon YOUR Child*
 A production cross-platform app generating personalized, age-appropriate stories that help kids build feelings vocabulary and social-emotional skills. Built and operated solo.
 - Flutter front end · Python/Flask API · PostgreSQL · Docker on Railway
@@ -46,7 +54,8 @@ An agent-based model asking whether a town fleeing a wildfire is safer leaving a
 ### 🗣️ SoundingBoard
 An iOS app for practicing difficult conversations with an AI persona that pushes back realistically, then scores clarity, composure, and assertiveness.
 - Cloudflare Worker proxies all model and TTS calls, so **no API credentials ship in the client**; speech-to-text runs on-device
-- Repo private during App Store prep — happy to walk through it on request
+- 73 Worker tests passing; TypeScript end to end (Expo / React Native + Cloudflare Workers)
+- Parked as a working prototype and published as a reference implementation — Repo: **[`soundingboard`](https://github.com/darcy0408/soundingboard)**
 
 ### 🛰️ DRIFT — an ambient atlas
 Interactive satellite screensaver touring Earth’s wonders, as a web app and a Windows `.scr`.
