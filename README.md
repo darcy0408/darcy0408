@@ -31,7 +31,7 @@ An agent-based model of interacting vehicles on Portland's street network. Vehic
 - The agent simulation **generates the predictors**, which are then fed into the same random-forest method a published land-use baseline used — so the comparison isolates what source-based interaction modeling adds over static estimation
 - Closure experiments quantify that **61–76% of a closed arterial's emissions redistribute onto specific parallel routes**, naming which blocks inherit the burden
 - HBEFA emission factors, CNOSSOS noise modeling benchmarked against the FHWA Traffic Noise Model
-- Abstract submitted to the **ACM SIGSPATIAL 2026** Student Research Competition
+- Sole-author abstract accepted to the **ACM SIGSPATIAL 2026** Student Research Competition (undergraduate track)
 - Repo: **[`portland-traffic-abm`](https://github.com/darcy0408/portland-traffic-abm)**
 
 ### 📖 Story Weaver — *Once Upon YOUR Child*
@@ -66,7 +66,7 @@ Interactive satellite screensaver touring Earth’s wonders, as a web app and a 
 
 ## Now
 - Building out Story Weaver toward store release — COPPA-aware consent flow, age-banded content, and release automation.
-- Writing up the REU modeling work; abstract submitted to the **ACM SIGSPATIAL 2026** Student Research Competition.
+- Writing up the REU modeling work; sole-author abstract accepted to the **ACM SIGSPATIAL 2026** Student Research Competition (undergraduate track).
 
 ## Get in touch
 - **Email:** darcy0408@gmail.com
